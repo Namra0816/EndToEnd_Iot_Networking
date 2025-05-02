@@ -1,5 +1,3 @@
-**Title:** End-to-End IoT Smart Home System
-
 # CECS 327 - Assignment 8: End-to-End IoT System
 
 ## Author
