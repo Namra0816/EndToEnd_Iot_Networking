@@ -9,7 +9,7 @@ def start_client():
     server_port = int(input("Enter the server port number: "))
 
     valid_queries = [
-        "What is the average moisture inside my kitchen fridge in the past three hours?",
+        "What is the average moisture inside my fridge in the past three hours?",
         "What is the average water consumption per cycle in my smart dishwasher?",
         "Which device consumed more electricity among my three IoT devices?"
     ]
