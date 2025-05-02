@@ -27,15 +27,6 @@ This project implements an end-to-end IoT system that:
 
 ---
 
-## Architecture Overview
-```
-[Client]  <--TCP-->  [Server]  <--PostgreSQL-->  [NeonDB: smarthome_data]
-                                  ↑
-                               [Dataniz Virtual IoT Devices]
-```
-
----
-
 ## Queries Supported
 The client accepts only these three exact queries:
 
